@@ -1,4 +1,7 @@
-# Schedule-Manger
+# Schedule-Manager
+#### Video Demo:  <https://youtu.be/TtGvFjUmTIM>
+
+#### Description:
 ## Schedule Manager 
 Is a Python application designed with students—and really anyone frustrated by cluttered, hard-to-read timetables—in mind. Built on PySide6, it delivers a sleek, modern user interface that feels intuitive and accessible from the moment you open it. Whether you’re dealing with a schedule buried in a PDF or organizing a new one from scratch, Schedule Manager brings the text right into the app, giving you the power to edit, rearrange, and refine every detail to your liking. The real magic happens when you convert your adjustments into a structured table, where every row and column falls neatly into place, eliminating the chaos of disorganized lists and unreadable blocks of text. With Schedule Manager, you have full control—modify subjects, swap times, fix typos, and ensure that everything is perfectly aligned before finalizing your schedule. The thoughtfully designed interface is easy on the eyes, reducing visual fatigue and letting you focus on what matters without getting overwhelmed or lost. You get seamless PDF text extraction, real-time editing, and instant table generation, all within a single streamlined workspace. What used to be a stressful, hours-long ordeal—cleaning up and organizing your schedule—becomes a straightforward, manageable task that saves time and spares you the headache. For students, this means less time wrestling with formatting issues and more time focusing on what’s actually important.
 
